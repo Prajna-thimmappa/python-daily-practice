@@ -1,9 +1,5 @@
 name = "Prajna"
+age = 19
+print(name)
+print(age)
 
-print("Hello", name)
-print("Welcome to Python Practice!")
-
-a = 10
-b = 20
-
-print("Sum:", a + b)
